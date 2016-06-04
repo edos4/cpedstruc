@@ -1,0 +1,25 @@
+
+
+
+
+
+
+III. Priority Queues
+
+
+
+eq(1,4)
+eq(1,2)
+eq(1,1)
+dq()
+dq()
+eq(7,2)
+eq(4,2)
+dq()
+eq(8,2)
+dq()
+eq(2,2)
+dq()
+eq(7,3)
+dq()
+dq()

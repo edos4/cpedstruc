@@ -1,0 +1,17 @@
+One line/ans
+display stack or queue contents per line separated by (',')
+
+For STACKS:
+*"Stack empty" if empty
+*top is at the left
+
+FOR QUEUES:
+*"Queue empty" if empty
+*front at the left
+*eq = Enqueue()
+*dq = Dequeue()
+
+For PRIORITY QUEUES:
+*(priority, value)
+*lower val is higher priority
+*Format: (1,1), (1,2), (2,1)

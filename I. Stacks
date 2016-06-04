@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+I. Stacks
+
+
+pop()
+push(2)
+pop()
+pop()
+push(5)
+pop()
+push(4)
+push(6)
+pop()
+push(1)
+top() //ingats
+push(3)
+push(7)
+push(2)
+pop()
+push(7)
+pop()
+pop()
+push(2)
+push(3)
+push(7)
+top() //ingats
+pop()
+top()
+push(5)
+
+sample output:
+1,2,3,4,5
